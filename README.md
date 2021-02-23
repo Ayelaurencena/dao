@@ -2,7 +2,9 @@
 
 ### Problema a resolver
 -----------------------
+ Facilitar una infraestructura que permita canalizar la voluntad de ayuda concreta entre humanos.
 
+ -------------------------
 
 ### Objetivo de la DAO
 
