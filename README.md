@@ -38,6 +38,6 @@ Juan, Esther y Pablo quieren organizarse pero se enriedan al tratar de responder
 
 --------------
 ##### Referencias para estudiar
-We trust - charitable - quadratic finance
-gitcoin - grants - quadratic finance
-consensus grants - grants - quadratic finance
+* We trust - charitable - quadratic finance
+* gitcoin - grants - quadratic finance
+* consensus grants - grants - quadratic finance
