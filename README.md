@@ -34,7 +34,7 @@ Juan, Esther y Pablo quieren organizarse pero se enriedan al tratar de responder
 * Estimulo a proveer capital social no solo financiero. 
 * Estimulo a desarrollar "cadena de favores" diseñado en el sistema.
 * Posibilidad de contabilizar el aporte de capital social.
-* La lógica del mecanismo potencialmente sea utilizable para otros casos de uso (alimentos, salud, infraestructura, microcreditos para emprendimientos)
+
 
 --------------
 ##### Referencias para estudiar
